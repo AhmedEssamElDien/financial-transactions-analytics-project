@@ -2,7 +2,7 @@
 
 *A real-world financial analytics workflow documented in English and Arabic.*
 
-This project showcases the full cycle of data analytics: from generating synthetic financial data with Python and Faker, to importing and analyzing in SQL Server, and visualizing trends using Excel and Python. All steps are documented clearly to support beginners and professionals alike.
+This project showcases the full cycle of data analytics: from generating synthetic financial data with Python and Faker, to importing and analyzing in SQL Server, and visualizing trends using Power BI and Python. All steps are documented clearly to support beginners and professionals alike.
 
 ---
 
