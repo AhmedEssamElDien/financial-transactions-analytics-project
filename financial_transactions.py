@@ -2,7 +2,7 @@ import pandas as pd
 import random
 from faker import Faker
 
-fake = Faker('en_US')  # لو حابب نخليها 'ar_EG' ممكن نغيرها
+fake = Faker('en_US')  
 Faker.seed(42)
 
 # عدد الصفوف
